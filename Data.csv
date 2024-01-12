@@ -1,0 +1,11 @@
+Zone;Chambres;Superficie;Salon;Type;Prix en dh
+A;4;135;2;Maison;1200000
+B;2;75;1;Appartement;250000
+A;3;120;2;Maison;1000000
+C;1;60;1;Studio;180000
+B;3;85;1;Appartement;350000
+D;6;220;4;Villa;2300000
+C;1;60;1;Studio;180000
+B;2;80;1;Appartement;300000
+D;7;225;3;Villa;2370000
+D;6;220;3;Villa;2200000
